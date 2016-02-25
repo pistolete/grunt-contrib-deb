@@ -21,7 +21,7 @@
     "gruntplugin"
   ],
   "dependencies": {
-    "ar-async": "git+https://github.com/JayCanuck/node-ar-async.git",
+    "ar-async": "git+https://github.com/pistolete/node-ar-async.git",
     "async": "^1.5.0",
     "tar-stream": "^1.3.1"
   },
